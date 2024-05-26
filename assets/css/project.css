@@ -2658,6 +2658,10 @@ border-radius: 5px;
 
     }
 
+	.box-sec6{
+		width: 270px;
+	}
+
     header ul {
         display: none;
     }
